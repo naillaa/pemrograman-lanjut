@@ -1,2 +1,2 @@
 # pemrograman-lanjut
-tugas praktikum programan lanjut
+tugas praktikum pemrograman lanjut
